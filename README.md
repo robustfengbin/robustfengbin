@@ -1,16 +1,23 @@
-## Hi there 👋
+  ### Hi, I'm Robust 👋
 
-<!--
-**robustfengbin/robustfengbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Senior Software Engineer with 10+ years of experience.
 
-Here are some ideas to get you started:
+  Focused on **Zero-Knowledge Proofs**, **Privacy Coins**, **Rust**, and **Distributed Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  #### Featured Projects
+
+  **Rust**
+  - [web3_wallet](https://github.com/robustfengbin/web3_wallet) - A modular Web3 wallet management service with multi-chain support (Rust + React).
+  - [lighter-sdk](https://github.com/robustfengbin/lighter-sdk) - A pure Rust SDK for Lighter DEX - a zk-powered perpetual futures exchange.
+  - [ChainFusion-Arbitrage](https://github.com/robustfengbin/ChainFusion-Arbitrage) - High-performance decentralized exchange arbitrage system.
+
+  **JavaScript**
+  - [tolk-mcp-server](https://github.com/robustfengbin/tolk-mcp-server) - MCP server for TON blockchain Tolk language.
+
+  ---
+
+  #### Support
+
+  **ETH / USDT / USDC (ERC20):** `0xD76f061DaEcfC3ddaD7902A8Ff7c47FC68b3Dc49`
