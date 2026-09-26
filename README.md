@@ -6,7 +6,7 @@
 
   #### Security & Fuzzing
 
-- **Zcash Zebra fuzzing** — Built the coverage-guided fuzzing harnesses for [Zebra](https://github.com/ZcashFoundation/zebra) (ZCG-funded, [zebra-fuzz](https://github.com/robustfengbin/zebra-fuzz-m2)) and integrated Zebra into [Google OSS-Fuzz](https://github.com/google/oss-fuzz/tree/master/projects/zebra), where it now runs continuously. OSS-Fuzz has since reported a High-severity remote DoS, fixed in Zebra v6.4.2 ([GHSA-h5rr-8pqv-grp9](https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-h5rr-8pqv-grp9)).
+- **Zcash Zebra fuzzing** — Built the coverage-guided fuzzing harnesses for [Zebra](https://github.com/ZcashFoundation/zebra) (ZCG-funded, [zebra-fuzz](https://github.com/robustfengbin/zebra-fuzz-m3)) and integrated Zebra into [Google OSS-Fuzz](https://github.com/google/oss-fuzz/tree/master/projects/zebra), where it now runs continuously. OSS-Fuzz has since reported a High-severity remote DoS, fixed in Zebra v6.4.2 ([GHSA-h5rr-8pqv-grp9](https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-h5rr-8pqv-grp9)).
 
   ---
 
